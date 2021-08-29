@@ -1,8 +1,8 @@
 # Lexie Hvostal's First CS193 Homework
--approachable instructors
--stress free environment
--valuable skills
--forum to meet other freshman CS students
+- approachable instructors
+- stress free environment
+- valuable skills
+- forum to meet other freshman CS students
 
 \## Welcome to GitHub Pages
 
